@@ -1,0 +1,19 @@
+{
+  "name": "googlesheetseventviewer",
+  "version": "1.0.0",
+  "description": "---\r <br  />",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lorenzmiranda05/GoogleSheetsEventViewer.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lorenzmiranda05/GoogleSheetsEventViewer/issues"
+  },
+  "homepage": "https://github.com/lorenzmiranda05/GoogleSheetsEventViewer#readme"
+}
